@@ -4,6 +4,7 @@ using namespace std;
 int nums[1010] = {1, 1}, lst;
 int main(){
     fst
+    int t; cin>>t;
     while(t--){
         int mod = 0;
         for(int i = 0; i <= lst; i++){
